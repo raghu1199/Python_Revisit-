@@ -1,0 +1,8 @@
+{
+    "states":[
+        {"name":"Gujarat","capital":"Gandhinagar","rank":7},
+        {"name":"Maharastra","capital":"Ahmedabad","rank":5},
+        {"name":"Rajasthan","capital":"Jaipur","rank":8},
+        {"name":"karnatka","capital":"Banglore","rank":2}
+    ]
+}

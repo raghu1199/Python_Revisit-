@@ -1,0 +1,20 @@
+{
+  "states": [
+    {
+      "name": "Gujarat",
+      "capital": "Gandhinagar"
+    },
+    {
+      "name": "Maharastra",
+      "capital": "Ahmedabad"
+    },
+    {
+      "name": "Rajasthan",
+      "capital": "Jaipur"
+    },
+    {
+      "name": "karnatka",
+      "capital": "Banglore"
+    }
+  ]
+}
